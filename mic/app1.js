@@ -1,5 +1,5 @@
 let Commands;
-const API_KEY="YOUR_API_KEY";
+const API_KEY="683992ee74921321aa328d279153e099";
 const one = "Ed Sheeran   Shape of you.webm";
 const two = "Imran Khan - Satisfya.webm";
 const three = "Senorita.webm";
